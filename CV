@@ -20,6 +20,7 @@
 
 \begin{resume} 
 
+
 \section{EDUCATION} {\sl Bachelor of Science,} Physics \\
                       % \sl will be bold italic in New Century Schoolbook (or
 	              % any postscript font) and just slanted in
@@ -34,32 +35,36 @@
 		{\sl January 2014 - Present}\\
                 Undergraduate research with LIGO Scientific Collaboration (LSC) under the supervision of Dr. Gabriela Gonzalez. Working with the LIGO detector characterization group to assist commissioning by characterizing and addressing ongoing problems with the Advanced LIGO suspension subsystem. 
                  \begin{itemize}  \itemsep -2pt %reduce space between items
-                 \item Producing mHz-precision measurements of the suspension pendulum resonance modes
-                \item Installing physical environment sensors at LIGO Livingston
-                \item Running Xpipeline on LIGO signal injections to test the robustness and accuracy of the algorithm
-                \item Studying long-term drift of LIGO optical alignment
-                	\item Study thermal propagation on the suspension blade springs
-                \item Volunteered to undertake data quality (DQ) shifts during Engineering Run 6
+                 \item Produced mHz-precision measurements of the suspension pendulum resonance modes
+                \item Installed physical environment sensors at LIGO Livingston
+                \item Ran Xpipeline on LIGO signal injections to test the robustness and accuracy of the algorithm (paper internally published)
+                \item Studied long-term drift of LIGO optical alignment
+                	\item Studying thermal propagation on the suspension blade springs (current project)
+               
                 \end{itemize}
  
                 {\sl May 2013 - August 2013}  Australian Astronomical Observatory (AAO) summer fellowship, conducted research on Stephan's Quintet under the supervision of an AAO research staff. I studied how the intruder galaxy to the galaxy group may have halted the star formation.
                  \begin{itemize}  \itemsep -2pt %reduce space between items
-                 \item Understand galaxy evolution, shock wave, and star formation 
-                 \item Write a script to manually sky-subtract the target spectrum 
-                 \item Write a script to produce a H$\alpha$, NII, and OI  velocity map 
+                 \item Studied galaxy evolution, shock wave, and star formation 
+                 \item Wrote a script to manually sky-subtract the target spectrum 
+                 \item Wrote a script to produce a H$\alpha$, NII, and OI  velocity map 
                  \end{itemize} 
                  
                 {\sl August 2011 - October 2013}  \\
                 Undergraduate research on the production of dust in core collapse supernovae (SNe Type II) with an LSU faculty. Using optical and infrared imaging and spectroscopy taken with Gemini, HST, SMARTS, and Spitzer, I studied how much dust Type II SNe could contribute to the Universe and whether they are the main dust contributors in high-z galaxies.
                  \begin{itemize}  \itemsep -2pt %reduce space between items
-                 \item Do image reduction in IRAF. Especially reducing raw images and spectra from the GMOS instrument using the Gemini package.
-                 \item Do photometry using both aperture and point-spread function fitting in IRAF
-                 \item Register and update the World Coordinate System on a FITS science image using both the mscred package in IRAF and solve-field in astrometry.net software.
+                 \item Did image reduction in IRAF. Especially reducing raw images and spectra from the GMOS instrument using the Gemini package.
+                 \item Did photometry using both aperture and point-spread function fitting in IRAF
+                 \item Registered and updateed the World Coordinate System on a FITS science image using both the mscred package in IRAF and solve-field in astrometry.net software.
                  \end{itemize} 
 
            
                  {\sl September 2010 - August 2011}  \\
-                Undergraduate research under the supervision of an LSU faculty on R Coronae Borealis (RCB) stars. Using the data retrieved from DASCH, NSVS, Spectrum from KPNO, and photometry of AAVSO images, I constructed a hundred year-old light curve of NSV 11154 and confirmed that it was indeed an RCB star.  
+                Undergraduate research under the supervision of an LSU faculty on R Coronae Borealis (RCB) stars. Using the data retrieved from DASCH, NSVS, Spectrum from KPNO, and photometry of AAVSO images, I constructed a hundred year-old light curve of NSV 11154 and confirmed that it was indeed an RCB star. 
+              	 \begin{itemize}  \itemsep -2pt %reduce space between items
+                 \item Paper externally published
+                 \end{itemize} 
+ 
 
 		
 \section{Publication}  NSV 11154 Is a New R Coronae Borealis Star\\ Kijbunchoo, N., et al. 2011, PASP, 123, 1149\\ (http://arxiv.org/abs/1108.4481)
@@ -88,11 +93,14 @@
       		\begin{itemize}  \itemsep -2pt %reduce space between items
                  \item I created, and am an admin of a science Facebook page \\
                  www.facebook.com/Trust.me.Physicist.I.am \\which aims specifically for Thai people who uses Facebook daily. Because media back home (in Thailand) rarely cover science, the page was created to share exciting news about science and technology to those who cares. Since many Thais do not understand English, I do short translations of the news for them so they do not miss out what is happening around the world. I sometimes use my knowledge of physics and astronomy to criticize pseudoscience. The goal was to educate people of how science works, inspire them to think for themselves, and teach them the importance of science. Created in June 2014, the page currently has over five thousand followers from 38 different countries. Some of my posts has reached up to forty thousand people. 
-                 \item I am a creator of antimatterwebcomics.com \\With my knowledge of astrophysics and my artistic talent combined, I sometimes put science into a form that is easier to digest for everyone. I sometimes share life stories from a perspective of a physics student. One of my comics has made its appearance on LIGO magazine (http://www.ligo.org/magazine/LIGO-magazine-issue-5.pdf).
+                 \item I am a creator of antimatterwebcomics.com \\With my knowledge of astrophysics and my artistic talent combined, I sometimes put science into a form that is easier to digest for everyone. I sometimes share life stories from a perspective of a physics student. One of my comics have made its appearance on LIGO magazine (http://www.ligo.org/magazine/LIGO-magazine-issue-5.pdf).
                  \end{itemize}
 
 \end{resume}
 \end{document}
+
+
+
 
 
 
